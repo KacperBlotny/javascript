@@ -10,3 +10,12 @@ function getVal(input) {
     window.location.replace(url)
   }
 }
+
+// HTML tag
+// <input
+//           type="number"
+//           id="pageNumber"
+//           class="inputPageNumber"
+//           placeholder="0"
+//           onblur="getVal(this)"
+//         />
